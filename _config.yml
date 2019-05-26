@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Sales360 Solutions
-subtitle: Blog from Jumbo Xue
+title: Salesforce咨询中信
+subtitle: 薛江波的Salesfore博客
 description:
 keywords: Salesforce SAP
 author: Jumbo Xue
-language:
+language: zh-Hans
 timezone:
 
 # URL
